@@ -1,0 +1,36 @@
+That's one small step for a man, but one giant leap for all mankind)
+/home/anna_ubuntu
+├── Bioinformatics_2025
+│   ├── Seminar_1
+│   │   └── test.txt
+│   └── hw
+│       └── hw_1
+├── homework
+│   └── hw_file_1.txt
+└── snap
+    └── tree
+        ├── 54
+        ├── common
+        └── current -> 54
+
+11 directories, 2 files
+    1  mkdir Bioinformatics_2025
+    2  cd Bioinformatics_2025
+    3  mkdir Seminar_1
+    4  cd Seminar_1
+    5  vim test.txt
+    6  cat test.txt
+    7  cd ../
+    8  mkdir `Bioinformatics_2025/hw/hw_1/
+    9  mkdir -p ~/Bioinformatics_2025/hw/hw_1/
+   10  cd ~/Bioinformatics_2025/hw/hw_1/
+   11  touch my_hw_file.txt
+   12  echo "That's one small step for a man, but one giant leap for all mankind)" > my_hw_file.txt
+   13  mv my_hw_file.txt hw_file_1.txt
+   14  mkdir ~/homework/
+   15  cp hw_file_1.txt ~/homework/
+   16  rm ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+   17  tree ~ >> ~/homework/hw_file_1.txt
+   18  sudo snap install tree
+   19  tree ~ >> ~/homework/hw_file_1.txt
+   20  history >> ~/homework/hw_file_1.txt
