@@ -1,0 +1,154 @@
+hmmscan results for job FDF4967E-106E-11F0-835D-582E8F2DDC38.1
+
+Family-Id Family-Accession Clan Start End Ali-Start Ali-End Model-Start Model-End Bit-Score Ind.-E-value Cond.-E-value Description
+==================================================================================================================================
+
+RNA_pol_Rpb1_1 PF04997 - 2 187 2 158 1 118 110.25 1.4e-31 5.2e-35 RNA polymerase Rpb1, domain 1
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+MODEL  kkkikeiqfgiaspeeirklsvvevekpetieekklkpeegGllderlgtidkdleCetCgkkkk.........eCpg..........hfGhieLakPvfhigffkl...........ilkilecvckycskllldee..........kkklllklkk
+MATCH  kk++ ++++ +aspe+ir++s++evekpeti++++lkpe++Gl+der++++ kd+eC  Cgk+k+         +C +          ++GhieLa+P +hi+f+k            +++ le+v+++ ++++ld++          k++ll+++++
+PPL    589******************************************************.*****999999998888888***********************************************************988888888854444444443
+SEQ    KKEVRKVRIALASPEKIRSWSYGEVEKPETINYRTLKPERDGLFDERIFGPIKDYEC-ACGKYKRqrfegkvceRCGVevtksivrryRMGHIELATPAAHIWFVKDvpskigtlldlSATELEQVLYFSKYIVLDPKgailngvpveKRQLLTDEEY
+
+==================================================================================================================================
+
+RNA_pol_Rpb1_1 PF04997 - 438 618 479 618 169 312 153.89 7.4e-45 2.7e-48 RNA polymerase Rpb1, domain 1
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+MODEL  eekeklsaekvlkllkriededvevlgfnesgsrPewliltvlpVpPpeiRPsvaldgkkraedDlteklreiikrNnrLkkleeegapeaiireekelLQehvatlidneisglkpakqkskrplkslsqrLkGKeGRfRgnL
+MATCH  ee ++ s  +  k  kr+e     v  f +sg+rPew+il+ +pV+Pp++RP+v++dg+++a++Dl++++r+ i+rNnrLkkl+++gape+iir+ek++LQe+v++l+dn  +g + ++  s rpl+sl++ L GK+GRfR+nL
+PPL    3444455566777778888....8999********************************************************************************************************************9
+SEQ    EEMKHPSRARRAKARKRLE----VVRAFLDSGNRPEWMILEAVPVLPPDLRPMVQVDGGRFATSDLNDLYRRLINRNNRLKKLLAQGAPEIIIRNEKRMLQEAVDALLDNGRRGAPVTNPGSDRPLRSLTDILSGKQGRFRQNL
+
+==================================================================================================================================
+
+RNA_pol_Rpb1_5 PF04998 - 1064 1292 1064 1275 1 122 148.99 2.1e-43 7.6e-47 RNA polymerase Rpb1, domain 5
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+MODEL  GLtvkefffhtmggReGLiDtAlkTaesGYlqRrlvkaledvvvkyddtvrnsggeivqflygedg.....................................................................................lvepGeavGiiaAQSiGePgTQltlnTFHfaGva.sknvteGvvrlkei.....lnvsknik
+MATCH  GLtv e+f++++g+R+G +DtAl+Ta+sGYl+R+lv++++++vv++ d+++ + +++  f   e +                                                                                      v++GeavGi+aAQSiGePgTQlt++TFH++Gva ++ +t+G++r+ e+      +++++i+
+PPL    9**************************************************9999987776655.45********************************************************************************************************************9735789*********95555433333333
+SEQ    GLTVLEYFISSHGARKGGADTALRTADSGYLTRKLVDVTHEIVVREADCGTTNYISVPLFQPDE-VtrslrlrkradieaglygrvlarevevlgvrleegrylsmddvhllikaaeageiqevpvrspltcqtrygvcqkcygydlsmarPVSIGEAVGIVAAQSIGEPGTQLTMRTFHTGGVAgAADITQGLPRVIELfearrPKAKAVIS
+
+==================================================================================================================================
+
+RNA_pol_Rpb1_5 PF04998 - 1269 1432 1304 1428 179 263 50.75 1.9e-13 7.0e-17 RNA polymerase Rpb1, domain 5
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+MODEL  gvnllevllvee..vvdageilsn...dieeileilgieaarkallkeiqevykeqgvsindrHlelivdqmtrkgeivavnrs...................................Ginkae
+MATCH   +++++ llv++  +v+ag+ l+    d+++ le  g ea++++l++eiq+vy++qgv+  d+H+e++v+qm++ +e+++ ++s                                   G++k++
+PPL    35555667777679*********999*******************************************************99966666666666666666666666666666666666666655
+SEQ    KLPKEARLLVKDgdYVEAGQPLTRgaiDPHQLLEAKGPEAVERYLVEEIQKVYRAQGVKLHDKHIEIVVRQMMKYVEVTDPGDSrllegqvlekwdvealnerliaegktpvawkpllmGVTKSA
+
+==================================================================================================================================
+
+RPOC_hybrid PF21668 CL0105 242 338 242 336 1 100 102.17 1.4e-29 5.0e-33 DNA-directed RNA polymerase subunit beta', hybrid domain
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+MODEL  lAeleedvqltaevdgvaellelgedsvlvelrdpeedevlarvyvPhGmevkvaeGElveaGavlAeakaGgrlRvsrdsrlseveaekkgdvtvlall
+MATCH  lAel e++ ++ae++gv+el+el+e+++lv lr+  ede +a++++P+Gm++ v++GE+ve+G+ lAeak  g lR++r++r+++veae++g++++l+l+
+PPL    8*****************************.*99..79********************************..9**********************99986
+SEQ    LAELPEPYLFRAEEEGVVELKELEEGAFLV-LRR--EDEPVATYFLPVGMTPLVVHGEIVEKGQPLAEAK--GLLRMPRQVRAAQVEAEEEGETVYLTLF
+
+==================================================================================================================================
+
+RNA_pol_Rpb1_2 PF00623 - 620 765 620 761 1 162 125.96 2.1e-36 7.6e-40 RNA polymerase Rpb1, domain 2
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+MODEL  GkrvdfsaRsvispdpnlkldevgvPisvakkltvpeivtelnikklrklvengpevyPgakyvkredgaerklkakkrkldkelevgdiverhvkdgdvvllNRqPsLhklsimahrvkvlegktlrlnlsvttayNaDFDGDemnlhlpqseearaEaee
+MATCH  Gkrvd+s+Rsvi+++p+lkl++ g+P+++a  l+ p  ++++  k +           P  k       a+r+l+++ r +++e++      ++v++g+vvllNR+P+Lh+l+i+a+++ ++eg+ ++l+ +v++a+NaDFDGD+m++h+p s  a+aEa+ 
+PPL    9***********************************999887766655..........3333......445556555.44666677...34468999**************************************************************975
+SEQ    GKRVDYSGRSVIVVGPQLKLHQCGLPKRMALELFKPFLLKKMEEKGIA----------PNVK------AARRMLERQ-RDIKDEVW---DALEEVIHGKVVLLNRAPTLHRLGIQAFQPVLVEGQSIQLHPLVCEAFNADFDGDQMAVHVPLSSFAQAEARI
+
+==================================================================================================================================
+
+RNA_pol_Rpb1_3 PF04983 - 768 954 768 953 1 161 83.30 2.0e-23 7.4e-27 RNA polymerase Rpb1, domain 3
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+MODEL  nilspknGkpiigpvQDmvlglyllTred........tfldreevmqllesglddkvllhpailkpike....................................lwtgkqtfsrllpneinlkrkptnekeeesendskvliengellsgvidkkavgkkslgslihviykeygseetakfldrlkklgfryltksgfSigidD
+MATCH  n+lsp++G+p+  p++D++lgly++T+ +         f + ee+  + e+g   +v l+++i+++++e                                     + +++  +r+l+ +i+ +            +d+kv +e  +l      +   +k sl++l+++ + ++g+e+ta++ld lk+ gf ++t+sg++igidD
+PPL    89***********************************999999999999999...8999999999988899999999999999999999999999999999999999*****************9..........4688999999999......5556689*******************************************9
+SEQ    NLLSPASGEPLAKPSRDIILGLYYITQVRkekkgaglEFATPEEALAAHERG---EVALNAPIKVAGREtsvgrlkyvfanpdeallavahgivdlqdvvtvrymGKRLETSPGRILFARIVAEA----------VEDEKVAWELIQL------DVPQEKNSLKDLVYQAFLRLGMEKTARLLDALKYYGFTFSTTSGITIGIDD
+
+==================================================================================================================================
+
+RNA_pol_Rpb1_4 PF05000 - 983 1069 983 1051 1 81 59.13 4.0e-16 1.5e-19 RNA polymerase Rpb1, domain 4
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+MODEL  iteaerygkledlwgktleelleakinnilnkardkagkiaskslklNsilmMadsGakGsiinisqlagmvGqqavegkr
+MATCH  +t+ ery+++ +lw++t+e++++a ++n+++  +           ++N++++Ma+sGa+G++++i+ql+g++G++++++ +
+PPL    5899***************************..43..........49******************************9543
+SEQ    LTDRERYDQILQLWTETTEKVTQAVFKNFEE--NY----------PFNPLYVMAQSGARGNPQQIRQLCGLRGLMQKPSGE
+
+==================================================================================================================================
+
+
+Search Details
+==============
+Date Started: 2025-04-03 10:35:34
+Cmd: hmmscan --cut_ga  --hmmdb pfam 
+Database: pfam,  version 37.1,  downloaded on 2025-02-13
+Query:  >BAD71635.1 DNA-directed RNA polymerase beta'
+ chain (RpoC) [Thermus thermophilus HB8]
+ MKKEVRKVRIALASPEKIRSWSYGEVEKPETINYRTLKPERDGLFDER
+ IFGPIKDYECACGKYKRQRFEGKVCERCGVEVTKSIVRRYRMGHIELA
+ TPAAHIWFVKDVPSKIGTLLDLSATELEQVLYFSKYIVLDPKGAILNG
+ VPVEKRQLLTDEEYRELRYGKQETYPLPPGVDALVKDGEEVVKGQELA
+ PGVVSRLDGVALYRFPRRVRVEYVKKERAGLRLPLAAWVEKEAYKPGE
+ ILAELPEPYLFRAEEEGVVELKELEEGAFLVLRREDEPVATYFLPVGM
+ TPLVVHGEIVEKGQPLAEAKGLLRMPRQVRAAQVEAEEEGETVYLTLF
+ LEWTEPKDYRVQPHMNVVVPEGARVEAGDKIVAAIDPEEEVIAEAEGV
+ VHLHEPASILVVKARVYPFEDDVEVSTGDRVAPGDVLADGGKVKSDVY
+ GRVEVDLVRNVVRVVESYDIDARMGAEAIQQLLKELDLEALEKELLEE
+ MKHPSRARRAKARKRLEVVRAFLDSGNRPEWMILEAVPVLPPDLRPMV
+ QVDGGRFATSDLNDLYRRLINRNNRLKKLLAQGAPEIIIRNEKRMLQE
+ AVDALLDNGRRGAPVTNPGSDRPLRSLTDILSGKQGRFRQNLLGKRVD
+ YSGRSVIVVGPQLKLHQCGLPKRMALELFKPFLLKKMEEKGIAPNVKA
+ ARRMLERQRDIKDEVWDALEEVIHGKVVLLNRAPTLHRLGIQAFQPVL
+ VEGQSIQLHPLVCEAFNADFDGDQMAVHVPLSSFAQAEARIQMLSAHN
+ LLSPASGEPLAKPSRDIILGLYYITQVRKEKKGAGLEFATPEEALAAH
+ ERGEVALNAPIKVAGRETSVGRLKYVFANPDEALLAVAHGIVDLQDVV
+ TVRYMGKRLETSPGRILFARIVAEAVEDEKVAWELIQLDVPQEKNSLK
+ DLVYQAFLRLGMEKTARLLDALKYYGFTFSTTSGITIGIDDAVIPEEK
+ KQYLEEADRKLLQIEQAYEMGFLTDRERYDQILQLWTETTEKVTQAVF
+ KNFEENYPFNPLYVMAQSGARGNPQQIRQLCGLRGLMQKPSGETFEVP
+ VRSSFREGLTVLEYFISSHGARKGGADTALRTADSGYLTRKLVDVTHE
+ IVVREADCGTTNYISVPLFQPDEVTRSLRLRKRADIEAGLYGRVLARE
+ VEVLGVRLEEGRYLSMDDVHLLIKAAEAGEIQEVPVRSPLTCQTRYGV
+ CQKCYGYDLSMARPVSIGEAVGIVAAQSIGEPGTQLTMRTFHTGGVAG
+ AADITQGLPRVIELFEARRPKAKAVISEIDGVVRIEETEEKLSVFVES
+ EGFSKEYKLPKEARLLVKDGDYVEAGQPLTRGAIDPHQLLEAKGPEAV
+ ERYLVEEIQKVYRAQGVKLHDKHIEIVVRQMMKYVEVTDPGDSRLLEG
+ QVLEKWDVEALNERLIAEGKTPVAWKPLLMGVTKSALSTKSWLSAASF
+ QNTTHVLTEAAIAGKKDELIGLKENVILGRLIPAGTGSDFVRFTQVVD
+ QKTLKAIEEARKEAVEAKERPAARRGVKREQPGKQA
+
+Stats
+=====
+nhits:8
+elapsed:0.23
+Z:21979
+Z_setby:0
+n_past_msv:755
+unpacked:8
+nseqs:1
+user:0.01
+domZ_setby:0
+n_past_bias:642
+sys:0.01
+n_past_fwd:14
+nmodels:21979
+nincluded:8
+n_past_vit:64
+nreported:8
+domZ:8
+

@@ -1,0 +1,152 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+A0A009HPH3      MKDLLDIMRKKTDSDGHAPIEFDRIRIGLASPEMIKSWSHG-EVKKPETINYRTFKPERD	59
+A0A009IUA1      MKDLLDIMRKKTDSDGHAPVEFDRIRIGLASPEMIKSWSHG-EVKKPETINYRTFKPERD	59
+A0A010QG59      ----------------MAP-----APPAADSPSAATTSSTDSKLEVWKDMLYEKFQK---	36
+A0A015INE5      ---------------------------------MQKSEVTED------------------	9
+                                                   .:                       
+
+A0A009HPH3      GLFCAKIFGPVKDYECLCGKYKRMKYKGVICEKCGVEVTTAKVRRERMGHIELASP--VA	117
+A0A009IUA1      GLFCAKIFGPVKDYECLCGKYKRMKYKGVICEKCGVEVTTAKVRRERMGHIELASP--VA	117
+A0A010QG59      ----------AGDENELFTQYDLLDFDV-IPNRDTVTL------------LKCLQSLTND	73
+A0A015INE5      ---------------------DWMVWDV-INSRGQVFVDEIKI-------HELIQEILPD	40
+                                     . : :.  * .:  * :             :  .     
+
+A0A009HPH3      HIWF-----LKSFPSRIGLLLDMTLRDIERVLYFESYVVTDPGMTPFEKYQLLTDEEYF-	171
+A0A009IUA1      HIWF-----LKSLPSRIGLLLDMTLRDIERVLYFESYVVTDPGMTPFEKYQLLNDEEYF-	171
+A0A010QG59      R-------LLIAVSSQTGL------------------AWRWRSVEDAEKYKLCTTDEQRM	108
+A0A015INE5      TSWEIFQDILLN-LYEVGLVRKRQTH-------DERYMYQARSKETATKLQA-LENHEFE	91
+                         *     . **                       .     * :    :.   
+
+A0A009HPH3      --NALEEHGDEFTAKMGAEAVQDLLKDIDLEAEIARLREEIPQTTSETKLKKASKRLKLM	229
+A0A009IUA1      --TALEEHGDEFVAKMGAEAVQDLLKDIDLEAEISRLREEIPQTTSETKLKKASKRLKLM	229
+A0A010QG59      VYGAIDEAGGDGI---WSKSIQNR---LNM-----------HDSVLKTALKQL-QGKGLI	150
+A0A015INE5      IYELIENSERKGI---SKTDIQKQ---IKL-----------VQSLVESSLKNM-QEQKLI	133
+                    :::   .         :*.    :.:            ::  :: **:  :   *:
+
+A0A009HPH3      EAFKDSNNKPEWMVMNVLPVLPPDLRPLVPLEGGRF-ATSDLNDLYRRVINRNNRLKRLL	288
+A0A009IUA1      EAFKDSNNKPEWMVMNVLPVLPPDLRPLVPLEGGRF-ATSDLNDLYRRVINRNNRLKRLL	288
+A0A010QG59      APFKNVEHPNKRMFI------KASMRPSERATGGPWFTDSTFDEAF--------------	190
+A0A015INE5      KEV---KPKTKKLYM------LFDIKPHDESLSRLLYTNGEPDTFV--------------	170
+                  .   :   : : :        .::*     .    : .  :                 
+
+A0A009HPH3      DLAAPDIIVRNEKRMLQESVDALLDNGRRGRAITGSNKRPLKSLADMIKGKQGRFRQNLL	348
+A0A009IUA1      DLAAPDIIVRNEKRMLQESVDALLDNGRRGRAITGSNKRPLKSLADMIKGKQGRFRQNLL	348
+A0A010QG59      ------------------------------------------------------------	190
+A0A015INE5      ------------------------------------------------------------	170
+                                                                            
+
+A0A009HPH3      GKRVDYSGRSVITVGPTLRLHQCGLPKKMALELFKPFIFAKLQASGQATTIKAAKKMVER	408
+A0A009IUA1      GKRVDYSGRSVITVGPTLRLHQCGLPKKMALELFKPFIFAKLQASGQATTIKAAKKMVER	408
+A0A010QG59      ------------------------------IEEI--------------------------	194
+A0A015INE5      ------------------------------VESL--------------------------	174
+                                              :* :                          
+
+A0A009HPH3      ETPEVWDVLASVIRQHPVMLNRAPTLHRLGLQAFEPILIEGKAIRLHPLVCAAFNADFDG	468
+A0A009IUA1      ETPEVWDVLASVIRQHPVMLNRAPTLHRLGLQAFEPILIEGKAIRLHPLVCAAFNADFDG	468
+A0A010QG59      ------------------------------------------------------------	194
+A0A015INE5      ------------------------------------------------------------	174
+                                                                            
+
+A0A009HPH3      DQMAVHVPLTLEAQLEARALMMSTNNILSPANGEPIIVPSQDVVLGLYYITRDAVNAKGE	528
+A0A009IUA1      DQMAVHVPLTLEAQLEARALMMSTNNILSPANGEPIIVPSQDVVLGLYYITRDAVNAKGE	528
+A0A010QG59      ------------------------------------------------------------	194
+A0A015INE5      ------------------------------------------------------------	174
+                                                                            
+
+A0A009HPH3      GMVFADTHEVNRALATGQVAIHARVKVRVHQTVINENGEREHQTIIVDTTPGRCLLWEIV	588
+A0A009IUA1      GMVFADTHEVNRALATGQVAIHARVKVRVHQTVINENGEREQQTIIVDTTPGRCLLWEVV	588
+A0A010QG59      ------------------------------------------------------------	194
+A0A015INE5      ------------------------------------------------------------	174
+                                                                            
+
+A0A009HPH3      PQGLSFDMINLEMTKKNISKLINSCYRKLGLKDTVIFADQLMYLGFRQATRSGVSVGMED	648
+A0A009IUA1      PEGLSFDMINLEMTKKNISKLINSCYRKLGLKDTVIFADQLMYLGFRQATRSGVSVGMED	648
+A0A010QG59      ------------------------------------------------------------	194
+A0A015INE5      ------------------------------------------------------------	174
+                                                                            
+
+A0A009HPH3      MLIPPTKHTIIDKAETEVREIEQQFEQGFVTAGERYNKVVDIWARTNDQVAKAMMDNLSY	708
+A0A009IUA1      MLIPPTKHTIIDKAETEVREIEQQFEQGFVTAGERYNKVVDIWARTNDQVAKAMMDNLSY	708
+A0A010QG59      -------------------------------------------------------QRVIF	199
+A0A015INE5      -------------------------------------------------------KSICY	179
+                                                                       . : :
+
+A0A009HPH3      TLVKNKQGEDEKQKSFNSIYMMSDSGARGSAA-----------------------QIRQL	745
+A0A009IUA1      TLVKNKQGEDEKQKSFNSIYMMSDSGARGSAA-----------------------QIRQL	745
+A0A010QG59      DYVKRKST-----------YHSTGSSSSSSAATRTAVPKKGVLKGGLPDTKGKKRSAGEI	248
+A0A015INE5      NFIYRRSF-----------PRGMD------------------------------------	192
+                  : .:.                .                                    
+
+A0A009HPH3      AGMRGLMA-------KPDGSIIETPIKANFREGLTVLQ--YFISTHGARKGLADTALKTA	796
+A0A009IUA1      AGMRGLMA-------KPDGSIIETPIKANFREGLTVLQ--YFISTHGARKGLADTALKTA	796
+A0A010QG59      SGASEAETKPAPAVQPPKREPTCLPLPAGFKEYPTVREIARFISQSGI------------	296
+A0A015INE5      ------------------EDAIFY---PNYNGYVTLSKVVQCVQETK-------------	218
+                                   .        .:.   *: :    :.                
+
+A0A009HPH3      NSGYLTRRLVDVAQDLVITEPDCG------TAGGLVMTPFIQGGDVIEPLRDRVLGRVTA	850
+A0A009IUA1      NSGYLTRRLVDVAQDLVITEPDCG------TSGGLVMTPFIQGGDVIEPLRDRVLGRVTA	850
+A0A010QG59      ------------TSDTILGEEDMQKLIDVLVFDGLIESIRVSGRVG---------YRVC-	334
+A0A015INE5      ------------VTEIEIEEADIKQILDVLIFEGKIIKKFISNVDP---------NSMK-	256
+                            . :  : * *           * : .  :..              :  
+
+A0A009HPH3      EDVRRASDDEVVLPRGTLIDEKIAAQLEEAGVDEVKVRSVIACESTFGVCARCYGRD--L	908
+A0A009IUA1      EDVRRASDDEVVLPRGTLIDEKIAAQLEEAGVDEVKVRSVIACESTFGVCAKCYGRD--L	908
+A0A010QG59      RAPRQ-SNT------------AWAGRQDDEG-----GPEPFVNGYTEAPCGRCPVFE-LC	375
+A0A015INE5      TDDNR-SDS------------QFV---YIAK-----RARNINNAWTQAPCGRCPFFENEC	295
+                   .: *:               .                :    * . *.:*   :   
+
+A0A009HPH3      ARGHLVNPGESVGVMAAQSIGEPGTQLTMRTFHVGGAASRTSAANSVQVRNKGTVRFHNV	968
+A0A009IUA1      ARGHLVNPGESVGVMAAQSIGEPGTQLTMRTFHVGGAASRTSAANSVQVRNKGTVRFHNV	968
+A0A010QG59      EEGGPVSASNCV--YFQRWLGLE-------------------------------------	396
+A0A015INE5      TENGEISPSTCI--FFPQWLNKA---I---------------------------------	317
+                 ..  :. . .:     : :.                                       
+
+A0A009HPH3      KTVQHAKGHLVSVSRSGEIGIADDLGRERERYKLPYGASILLKDGEAVEAGGIVATWDPH	1028
+A0A009IUA1      KTVQHAKGHLVSVSRSGEIGIADELGRERERYKLPYGASILLKDGELVEAGGIVATWDPH	1028
+A0A010QG59      ------------------------------------------------------------	396
+A0A015INE5      ---------------------------------------NMIQNDEENEKGKDTLDW---	335
+                                                                            
+
+A0A009HPH3      THPLVTEVAGKARFSQIADGVTATSKTDDATGMTTVEILPVTARPASGKDLRPAIVLDTT	1088
+A0A009IUA1      THPLVTEVAGKARFSQIADGVTATSKTDDATGMTTVEILPVTARPASGKDLRPAIVLDTT	1088
+A0A010QG59      ------------------------------------------------------------	396
+A0A015INE5      ------------------------------------------------------------	335
+                                                                            
+
+A0A009HPH3      DGGEQFYFLPQNTIVTVRDGETIGVGDVIGRVPQETSRTRDITGGLPRVADLFEARKPKE	1148
+A0A009IUA1      DGGEQFYFLPQNTIVTVRDGETIGVGDVIGRVPQESSRTRDITGGLPRVADLFEARKPKE	1148
+A0A010QG59      ------------------------------------------------------------	396
+A0A015INE5      ------------------------------------------------------------	335
+                                                                            
+
+A0A009HPH3      HAILAEVSGVVSFGKETKGKNRLVITPDDGSEIYEELIPKWRQINVFEGEHVNRGETISD	1208
+A0A009IUA1      HAILAEVSGIVSFGKETKGKNRLVITPDDGSEIYEELIPKWRQINVFEGEHVNRGETISD	1208
+A0A010QG59      ------------------------------------------------------------	396
+A0A015INE5      ------------------------------------------------------------	335
+                                                                            
+
+A0A009HPH3      GPQNPHDILRLKGEVALTNYIVNEVQDVYRLQGVKINDKHIEVIVRQMLRKVDITDGGDT	1268
+A0A009IUA1      GPQNPHDILRLKGEVALTNYIVNEVQDVYRLQGVKINDKHIEVIVRQMLRKVDIIDGGDT	1268
+A0A010QG59      ------------------------------------------------------------	396
+A0A015INE5      ------------------------------------------------------------	335
+                                                                            
+
+A0A009HPH3      SFIKGEQVDYIRVVQENQAVLAQNKFPAKFERQLMGITKASLSTDSFISAASFQETTRVL	1328
+A0A009IUA1      SFIKGEQVDYIRVVQENQAVLAQNKFPAKFERQLMGITKASLSTDSFISAASFQETTRVL	1328
+A0A010QG59      ------------------------------------------------------------	396
+A0A015INE5      ------------------------------------------------------------	335
+                                                                            
+
+A0A009HPH3      TEAAVTGKEDDLRGLKENVVVGRLIPAGTGLAYHLERRRQEAEAAEHELHNDFSEVDQAF	1388
+A0A009IUA1      TEAAVTGKEDDLRGLKENVVVGRLIPAGTGLAYHLERRRQEAEAAEHALHNDFSEVDQAF	1388
+A0A010QG59      ------------------------------------------------------------	396
+A0A015INE5      ------------------------------------------------------------	335
+                                                                            
+
+A0A009HPH3      SQALNSEQF	1397
+A0A009IUA1      SQALNSEQF	1397
+A0A010QG59      ---------	396
+A0A015INE5      ---------	335
+                         

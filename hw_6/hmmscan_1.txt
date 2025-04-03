@@ -1,0 +1,52 @@
+hmmscan results for job BA861296-106E-11F0-9C04-BB2BA4A8A028.1
+
+Family-Id Family-Accession Clan Start End Ali-Start Ali-End Model-Start Model-End Bit-Score Ind.-E-value Cond.-E-value Description
+==================================================================================================================================
+
+RNA_pol_Rpc34 PF05158 CL0123 12 313 20 312 7 331 86.94 2.0e-24 9.0e-29 RNA polymerase Rpc34 subunit
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+MODEL  klselakkllekllkaeqklfsqqeLqedvpslslkelmsavqeLldkkllkllk.qndeLvykavsreeAkkksslsedes.LVysiIessGneGIwsrtikaktnLhksvvkkcLksLeskkyiksvksvkaptk.kiYmlynLePseevTGG.pWFtD.kelDveFieelktiilkfvsekssvekkkitqeekssknaesgkkkalpvaakvksystveeilkfineagitkveLseediqslvevLvyDgklekvkvsagykvqratkqsvlqltskrrkakvvqpeavasglveapcgecpvfdlcsegasvspkecvyldeWl
+MATCH  kl  l+ ++ + ++++ +  +s+qeLqe++   s ++l  +v ++ + ++++  + ++++ + + +++  A k+  ++ +++   y++Ie+ G +GI+sr ik+kt+   + v k L  Lesk++ik+vk  k+ +  k Y+l++L++++++    + F +  ++D++  + + +++  f++++                         +++ +k++s +t++eil+ +++++  kv+L ee+i+ ++++L + gk+e+ ++  +     +  + ++              +++  +    pc +cpv +lcs  ++++p +c  +d W 
+PPL    7889999********************************************999975566799**********999988777369*********************************************9999765499**********98432356766699**99999999999999988765.......................46889999*******************************************99844333333333332..............3344677899****************************7
+SEQ    KLDRLETEIEDLCRSMRNDEVSEQELQEHFLDFSPEQLKLVVGRMAKARKIQIKTdEQHRPSIRLRDPMIARKLLAIEDEDEiKTYEAIEAVGSKGIASRIIKYKTKQAVTRVAKTLAALESKQLIKAVKLQKNTQHvKSYILFHLKLDDQAGAHiTVFGEgTNFDTQGFDMVSKLCTVFLKNRMK-----------------------DFIQRKMSSEATASEILENVRQTNTVKVDLVEESIEAVMKMLELNGKVERREHIDPELGPAVRYRLHV--------------SKSDRPEASIPCIGCPVKNLCSLDSPINPVDCPHFDAWV
+
+==================================================================================================================================
+
+
+Search Details
+==============
+Date Started: 2025-04-03 10:33:41
+Cmd: hmmscan --cut_ga  --hmmdb pfam 
+Database: pfam,  version 37.1,  downloaded on 2025-02-13
+Query:  >OQV19884.1 putative DNA-directed RNA polymerase
+ III subunit RPC6 [Hypsibius exemplaris]
+ MAASTSTPAGEEKKPTTLNKLDRLETEIEDLCRSMRNDEVSEQELQEH
+ FLDFSPEQLKLVVGRMAKARKIQIKTDEQHRPSIRLRDPMIARKLLAI
+ EDEDEIKTYEAIEAVGSKGIASRIIKYKTKQAVTRVAKTLAALESKQL
+ IKAVKLQKNTQHVKSYILFHLKLDDQAGAHITVFGEGTNFDTQGFDMV
+ SKLCTVFLKNRMKDFIQRKMSSEATASEILENVRQTNTVKVDLVEESI
+ EAVMKMLELNGKVERREHIDPELGPAVRYRLHVSKSDRPEASIPCIGC
+ PVKNLCSLDSPINPVDCPHFDAWVKKVDF
+
+Stats
+=====
+nhits:1
+elapsed:0.13
+Z:21979
+Z_setby:0
+n_past_msv:1590
+unpacked:1
+nseqs:1
+user:0
+domZ_setby:0
+n_past_bias:750
+sys:0
+n_past_fwd:5
+nmodels:21979
+nincluded:1
+n_past_vit:67
+nreported:1
+domZ:1
+
